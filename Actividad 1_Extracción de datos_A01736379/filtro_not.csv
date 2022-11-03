@@ -1,0 +1,38 @@
+name,code,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+Aruba,ABW,North America,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+Anguilla,AIA,North America,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+Andorra,AND,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,,Andorra,Parliamentary Coprincipality,,55.0,AD
+Netherlands Antilles,ANT,North America,Caribbean,800.0,,217000,74.7,1941.0,,Nederlandse Antillen,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,33.0,AN
+American Samoa,ASM,Oceania,Polynesia,199.0,,68000,75.1,334.0,,Amerika Samoa,uS Territory,George W. Bush,54.0,AS
+Bermuda,BMu,North America,North America,53.0,,65000,76.9,2328.0,2190.0,Bermuda,Dependent Territory of the uK,Elisabeth II,191.0,BM
+Bouvet Island,BVT,Antarctica,Antarctica,59.0,,0,,0.0,,Bouvetoya,Dependent Territory of Norway,Harald V,,BV
+Cocos (Keeling) Islands,CCK,Oceania,Australia and New Zealand,14.0,,600,,0.0,,Cocos (Keeling) Islands,Territory of Australia,Elisabeth II,2317.0,CC
+Cook Islands,COK,Oceania,Polynesia,236.0,,20000,71.1,100.0,,The Cook Islands,Nonmetropolitan Territory of New Zealand,Elisabeth II,583.0,CK
+Christmas Island,CXR,Oceania,Australia and New Zealand,135.0,,2500,,0.0,,Christmas Island,Territory of Australia,Elisabeth II,1791.0,CX
+Cayman Islands,CYM,North America,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+Faroe Islands,FRO,Europe,Nordic Countries,1399.0,,43000,78.4,0.0,,Foroyar,Part of Denmark,Margrethe II,901.0,FO
+Gibraltar,GIB,Europe,Southern Europe,6.0,,25000,79.0,258.0,,Gibraltar,Dependent Territory of the uK,Elisabeth II,915.0,GI
+Guadeloupe,GLP,North America,Caribbean,1705.0,,456000,77.0,3501.0,,Guadeloupe,Overseas Department of France,Jacques Chirac,919.0,GP
+Guam,GuM,Oceania,Micronesia,549.0,,168000,77.8,1197.0,1136.0,Guam,uS Territory,George W. Bush,921.0,Gu
+Hong Kong,HKG,Asia,Eastern Asia,1075.0,,6782000,79.5,166448.0,173610.0,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937.0,HK
+Heard Island and McDonald Islands,HMD,Antarctica,Antarctica,359.0,,0,,0.0,,Heard and McDonald Islands,Territory of Australia,Elisabeth II,,HM
+British Indian Ocean Territory,IOT,Africa,Eastern Africa,78.0,,0,,0.0,,British Indian Ocean Territory,Dependent Territory of the uK,Elisabeth II,,IO
+Liechtenstein,LIE,Europe,Western Europe,160.0,1806.0,32300,78.8,1119.0,1084.0,Liechtenstein,Constitutional Monarchy,Hans-Adam II,2446.0,LI
+Macao,MAC,Asia,Eastern Asia,18.0,,473000,81.6,5749.0,5940.0,Macau/Aomen,Special Administrative Region of China,Jiang Zemin,2454.0,MO
+Monaco,MCO,Europe,Western Europe,1.5,1861.0,34000,78.8,776.0,,Monaco,Constitutional Monarchy,Rainier III,2695.0,MC
+Northern Mariana Islands,MNP,Oceania,Micronesia,464.0,,78000,75.5,0.0,,Northern Mariana Islands,Commonwealth of the uS,George W. Bush,2913.0,MP
+Montserrat,MSR,North America,Caribbean,102.0,,11000,78.0,109.0,,Montserrat,Dependent Territory of the uK,Elisabeth II,2697.0,MS
+Martinique,MTQ,North America,Caribbean,1102.0,,395000,78.3,2731.0,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508.0,MQ
+Mayotte,MYT,Africa,Eastern Africa,373.0,,149000,59.5,0.0,,Mayotte,Territorial Collectivity of France,Jacques Chirac,2514.0,YT
+Norfolk Island,NFK,Oceania,Australia and New Zealand,36.0,,2000,,0.0,,Norfolk Island,Territory of Australia,Elisabeth II,2806.0,NF
+Niue,NIu,Oceania,Polynesia,260.0,,2000,,0.0,,Niue,Nonmetropolitan Territory of New Zealand,Elisabeth II,2805.0,Nu
+Pitcairn,PCN,Oceania,Polynesia,49.0,,50,,0.0,,Pitcairn,Dependent Territory of the uK,Elisabeth II,2912.0,PN
+Saint Helena,SHN,Africa,Western Africa,314.0,,6000,76.8,0.0,,Saint Helena,Dependent Territory of the uK,Elisabeth II,3063.0,SH
+San Marino,SMR,Europe,Southern Europe,61.0,885.0,27000,81.1,510.0,,San Marino,Republic,,3171.0,SM
+Saint Pierre and Miquelon,SPM,North America,North America,242.0,,7000,77.6,0.0,,Saint-Pierre-et-Miquelon,Territorial Collectivity of France,Jacques Chirac,3067.0,PM
+Turks and Caicos Islands,TCA,North America,Caribbean,430.0,,17000,73.3,96.0,,The Turks and Caicos Islands,Dependent Territory of the uK,Elisabeth II,3423.0,TC
+Tokelau,TKL,Oceania,Polynesia,12.0,,2000,,0.0,,Tokelau,Nonmetropolitan Territory of New Zealand,Elisabeth II,3333.0,TK
+united States Minor Outlying Islands,uMI,Oceania,Micronesia/Caribbean,16.0,,0,,0.0,,united States Minor Outlying Islands,Dependent Territory of the uS,George W. Bush,,uM
+"Virgin Islands, British",VGB,North America,Caribbean,151.0,,21000,75.4,612.0,573.0,British Virgin Islands,Dependent Territory of the uK,Elisabeth II,537.0,VG
+"Virgin Islands, u.S.",VIR,North America,Caribbean,347.0,,93000,78.1,0.0,,Virgin Islands of the united States,uS Territory,George W. Bush,4067.0,VI
+Wallis and Futuna,WLF,Oceania,Polynesia,200.0,,15000,,0.0,,Wallis-et-Futuna,Nonmetropolitan Territory of France,Jacques Chirac,3536.0,WF
